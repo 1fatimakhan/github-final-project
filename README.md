@@ -14,4 +14,4 @@ Output
 
 © 2023 MyProject. All rights reserved.
 git revert
-© 2021 MyProject. All rights reserved.
+© 2021 MyProject. All rights reserved
