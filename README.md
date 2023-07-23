@@ -12,4 +12,4 @@ Output
 
 ---
 
-© 2023 MyProject. All rights reserved.
+© 2021 MyProject. All rights reserved.
