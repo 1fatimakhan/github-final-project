@@ -16,7 +16,7 @@ Date	Version	Changed by	Change Description
 2023-04-03	1.1	Lavanya Rajalingam	Updated new SN Logo
 2023-04-04	1.2	Lavanya Rajalingam	Corrected number of URL’s in Checklist section
    # Additional Authors:
-   # GitHub username
+   # 1fatimakhan
    # Input:
    # p, principal amount
    # t, time period in years
